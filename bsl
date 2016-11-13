@@ -1,0 +1,19 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Related Commits
+3ba85a8aee12c44d745de67f6954dddf579cb3d9
+Branch:master
+HEAD:3ba85a8aee12c44d745de67f6954dddf579cb3d9
+PREV_HASH:
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJYKOrXAAoJEC/gJi80xDFi3IcH/jbjCLE3xKYQ3Powa1o3iVuj
+mQyFKrZOqb+9OOStaPmaCj2zRwVLxZiXWXwuPIM7MTX55PSMPO+mq84QJ2LJik5o
+kvtWpKhe0gjphP9Hu8U0zoxdbPkb37u+XGtghpJ0HmwBHz4rp7D1I3T4tB7vzXPz
+DmqH78+IHcd/rQznoLYp2E1Dtd+8Nvvl6kxMMSovQvjW6kLY/ee9fP3jFJ7HSthy
+psJoCGfkxOhNKLXzW7zlTy6puDBM/PDa8eWD+8y9OyEE+D+4SNgWa/qd+jHGo5+w
+bGpCsBZzTOZ3qWVXurwG1iOoNFjhMOQAYakeprkTswGkPEYAY+SBeRl/rHF1Imk=
+=VH/z
+-----END PGP SIGNATURE-----
